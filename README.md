@@ -1,7 +1,7 @@
 # ASTAR
 A visualization of the A* search algorithm in Python
 
-### Usage
+## Usage
 First Click - Place start node  
 Second Click - Place goal node  
 Nth Click - Place obstacle  
